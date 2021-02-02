@@ -53,7 +53,7 @@ text-align: center;
 margin: 30px 0px 67px 0px;
 font-family: "Open Sans", "Tahoma", sans-serif;
 color: #86878B;
-font-style: 14px;
+font-size: 14px;
 line-height: 19px;
 font-weight: 100;
 }
@@ -61,9 +61,9 @@ font-weight: 100;
 h3 {
   font-family: "Open Sans", "Tahoma", sans-serif;
   text-align: center;
-  font-style: 20px;
+  font-size: 20px;
   font-weight: 700;
-  line-height: 27,24px;
+  line-height: 27.24px;
 }
 
 .description {
