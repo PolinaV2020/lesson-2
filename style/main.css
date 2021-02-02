@@ -1,0 +1,92 @@
+body {
+  background-color: #ffffff;
+}
+
+header {
+  margin: 0 auto;
+}
+
+h1 {
+margin-top: 100px;
+text-align: center;
+font-family: "Raleway", "Tahoma", sans-serif;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-transform: uppercase;
+color: #212121;
+}
+
+hr {
+  width: 64px;
+  height: 1px;
+  border: none;
+  margin-top: 25px;
+  background-color: #E72424;
+}
+
+main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.thoughtful-design {
+  display: inline-block;
+  width: 350px;
+  margin: 0px 32px 0px 0px;
+} 
+
+.well-crafted {
+  display: inline-block;
+  width: 350px;
+  margin: 0px 32px 0px 0px;
+
+}
+
+.easy-to-customize {
+  display: inline-block;
+  width: 350px;
+}
+
+h4 {
+text-align: center;
+margin: 30px 0px 67px 0px;
+font-family: "Open Sans", "Tahoma", sans-serif;
+color: #86878B;
+font-style: 14px;
+line-height: 19px;
+font-weight: 100;
+}
+
+h3 {
+  font-family: "Open Sans", "Tahoma", sans-serif;
+  text-align: center;
+  font-style: 20px;
+  font-weight: 700;
+  line-height: 27,24px;
+}
+
+.description {
+width: 350px;
+font-family: "Open Sans", "Tahoma", sans-serif;
+color: #000000;
+font-size: 14px;
+font-weight: normal;
+line-height: 19px;
+text-align: center;
+}
+
+
+.circle {
+  margin: 0px 140px 30px 140px;
+  height: 70px;
+  width: 70px;
+  border: 1px solid #E72424;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+.icon {
+display: inline-block;
+margin: 20px auto;
+}
